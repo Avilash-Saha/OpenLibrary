@@ -1,0 +1,11 @@
+html {
+    background: rgb(201, 255, 239);
+}
+.colour {
+    color: rgb(120, 167, 53);
+}
+body {
+    font-size: 20px;
+    color: rgb(0, 137, 116);
+    font-family: monospace;
+}
